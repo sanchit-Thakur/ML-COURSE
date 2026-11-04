@@ -3,7 +3,6 @@
 Welcome to the **ML-COURSE** repository! This project contains clean, well-documented implementations of core Machine Learning algorithms, data preprocessing techniques, and model evaluation pipelines built as part of my Machine Learning journey.
 
 ---
-
 ## 📌 Overview
 
 The goal of this repository is to bridge the gap between theoretical Machine Learning concepts and practical implementation. Each folder/notebook explores how different algorithms work under the hood, how to preprocess data effectively, and how to tune models for optimal performance.
